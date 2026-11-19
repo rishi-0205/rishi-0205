@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Rishi.
 
-<!--
-**rishi-0205/rishi-0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things, figuring out how they work, fixing them when reality disagrees, and occasionally making things more complicated than they need to be.
 
-Here are some ideas to get you started:
+I'm interested in backend systems, applied AI, and the infrastructure behind reliable software. Most of my projects start with a problem I find interesting and an urge to see how well I can solve it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I've been building
+
+**[Cartog](https://github.com/rishi-0205/cartog)**
+
+A codebase exploration tool that turns source code into interactive dependency maps, call graphs, and architecture insights. Built to make navigating unfamiliar codebases easier.
+
+**[CrmOpsBench-lite](https://github.com/rishi-0205/CrmOpsBench-lite)**
+
+An isolated benchmark for evaluating AI agents on practical CRM operations, with deterministic verification and mutation-tested checks.
+
+**[Org Dependency Analyzer](https://github.com/rishi-0205/org-dependency-analyzer)**
+
+A graph-based tool for exploring organizational dependencies, understanding project impact, and identifying potential skill replacements.
+
+**[WebCrawler](https://github.com/rishi-0205/webcrawler) · [WebScrapper](https://github.com/rishi-0205/webscrapper)**
+
+Two experiments in web data extraction, from asynchronous crawling and URL discovery to scraping static and JavaScript-rendered pages.
+
+### Tools I enjoy working with
+
+**Languages:** TypeScript, JavaScript, Python, SQL
+
+**Backend:** Node.js, Express, FastAPI, PostgreSQL, Redis
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**AI & Infrastructure:** LangGraph, LangChain, Docker, AWS
+
+### Elsewhere
+
+[Portfolio](https://www.rishisrvstv.me/) · [LinkedIn](https://www.linkedin.com/)
+
+Always happy to talk about interesting engineering problems, ideas, and things worth building.
